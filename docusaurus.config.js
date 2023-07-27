@@ -8,10 +8,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const config = {
   title: 'OpenBots Docs Site',
   // tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://openbot-web-docs.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -92,7 +92,7 @@ const config = {
         title: 'OpenBots',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
